@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  7 06:19:49 2020
-
-@author: perrin27
-"""
-
-
-
 import datetime
 from os.path import dirname, join
 
